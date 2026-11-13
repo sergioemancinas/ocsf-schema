@@ -28,7 +28,7 @@
           "references": [
             {
               "description": "For example Office 365 Email Message Trace",
-              "url": "href='https://learn.microsoft.com/en-us/Exchange/monitoring/trace-an-email-message/message-trace-modern-eac"
+              "url": "https://learn.microsoft.com/en-us/exchange/monitoring/trace-an-email-message/message-trace-modern-eac"
             }
           ]
         },
